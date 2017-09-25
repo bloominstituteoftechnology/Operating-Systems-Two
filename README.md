@@ -4,7 +4,8 @@
 
 # Kernel space
 
-
+File System
+Processes
 
 ## System calls
 
